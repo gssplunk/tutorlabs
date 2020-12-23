@@ -40,7 +40,7 @@ CREATE TABLE `user` (
 
 LOCK TABLES `user` WRITE;
 /*!40000 ALTER TABLE `user` DISABLE KEYS */;
-INSERT INTO `user` VALUES (1,'mayur','mayurpoly215@gmail.com','Mayur#123',1),(11,NULL,'mayur@gmail.com','Mayur#1234',1),(12,NULL,'mohit@gmail.com','Mayur#123',1),(13,NULL,'rajiv@gmail.com','Mayur#123',1),(14,NULL,'kunal@gmail.com','Mayur#123',1),(15,NULL,'mahesh@gmail.com','Mayur#123',1);
+INSERT INTO `user` VALUES (1,'Mohit','MohitKumar215@gmail.com','Mohit#123',1),(11,NULL,'Mohit@gmail.com','Mohit#1234',1),(12,NULL,'mohit@gmail.com','Mohit#123',1),(13,NULL,'rajiv@gmail.com','Mohit#123',1),(14,NULL,'kunal@gmail.com','Mohit#123',1),(15,NULL,'mahesh@gmail.com','Mohit#123',1);
 /*!40000 ALTER TABLE `user` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
